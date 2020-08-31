@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #bfdcae;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+footer {
+    background-color: #81b214;
+    height: 100px;
+}
